@@ -1,0 +1,10 @@
+<launch>
+    <arg name="pkg_name" value="augmented_reality"/>
+    <arg name="node_name" default="augmented_reality_node"/>
+
+    <group ns="$(arg veh)">
+        <node name="$(arg node_name)" pkg="$(arg pkg_name)" type="$(arg node_name).py" output="screen">
+            <rosparam command="load" file="$(find augmented_reality)/map/$(arg map_file).yaml"/>
+        </node>
+    </group>
+</launch>

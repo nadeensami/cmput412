@@ -1,0 +1,8 @@
+<launch>
+  <arg name="veh"/>
+  <group ns="$(arg veh)">
+    <node pkg="lane_following" type="lane_following_node.py" name="lane_following_node" output="screen">
+    </node>
+  </group>
+
+</launch>

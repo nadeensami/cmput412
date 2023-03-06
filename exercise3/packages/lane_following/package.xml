@@ -1,0 +1,18 @@
+<package>
+  <name>lane_following</name>
+  <version>0.1.0</version>
+  <description>
+  This package is used to do stuff for the exercise CRA2.
+  </description>
+  <maintainer email='nadeen@ualberta.ca'>Nadeen Mohamed</maintainer>
+  <maintainer email='csheng2@ualberta.ca'>Celina Sheng</maintainer>
+  <license>None</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>duckietown_msgs</build_depend>
+  <run_depend>rospy</run_depend>
+</package>

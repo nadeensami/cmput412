@@ -1,0 +1,3 @@
+# LIST YOUR PYTHON3 PACKAGES HERE
+# NOTE: only place non-Duckietown libraries here; pin versions only if necessary
+ros_node_utils>=2.0.0
