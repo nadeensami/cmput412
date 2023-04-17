@@ -1,8 +1,8 @@
-# CMPUT 412 - WINTER 2023
+# CMPUT 412 - Winter 2023
 
 This repository contains the submissions for all CMPUT 412 Winter 2023 lab assignments. This code was compiled from different repositories, and includes all of the contributors below. To visit the actual repositories, go to `Main Repository`, which includes the actual commit histories and the breakdown of contributions.
 
-For more information, visit: [my CMPUT 412 Website](https://sites.google.com/ualberta.ca/nadeen-cmput-412/home)
+For more information, visit: https://sites.google.com/ualberta.ca/nadeen-cmput-412/home
 
 ## Contributors
 
