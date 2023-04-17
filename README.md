@@ -16,29 +16,29 @@ Austin Tralnberg: atralnbe@ualberta.ca
 
 ### Exercise 1: Intro to ROS
 
-[README](https://github.com/nadeensami/cmput412/blob/main/exercise1/README.md)
+- [README](https://github.com/nadeensami/cmput412/blob/main/exercise1/README.md)
 
 ### Exercise 2: ROS Development and Kinematics
 
-[Main Repository](https://github.com/nadeensami/cmput412e2.1.b)
-[README](https://github.com/nadeensami/cmput412/blob/main/exercise2/README.md)
+- [Main Repository](https://github.com/nadeensami/cmput412e2.1.b)
+- [README](https://github.com/nadeensami/cmput412/blob/main/exercise2/README.md)
 
 ### Exercise 3: Computer Vision for Robotics
 
-[Main Repository](https://github.com/csheng2/cmput412_exercise3)
-[README](https://github.com/nadeensami/cmput412/blob/main/exercise3/README.md)
+- [Main Repository](https://github.com/csheng2/cmput412_exercise3)
+- [README](https://github.com/nadeensami/cmput412/blob/main/exercise3/README.md)
 
 ### Exercise 4: Don’t Crash! Tailing Behaviour
 
-[Main Repository](https://github.com/nadeensami/cmput412_exercise4)
-[README](https://github.com/nadeensami/cmput412/blob/main/exercise4/README.md)
+- [Main Repository](https://github.com/nadeensami/cmput412_exercise4)
+- [README](https://github.com/nadeensami/cmput412/blob/main/exercise4/README.md)
 
 ### Exercise 5: ML for Robotics
 
-[Main Repository](https://github.com/csheng2/cmput412-exercise5)
-[README](https://github.com/nadeensami/cmput412/blob/main/exercise5/README.md)
+- [Main Repository](https://github.com/csheng2/cmput412-exercise5)
+- [README](https://github.com/nadeensami/cmput412/blob/main/exercise5/README.md)
 
 ### Final Project
 
-[Main Repository](https://github.com/MoyinF/cmput412final)
-[README](https://github.com/nadeensami/cmput412/blob/main/finalproject/README.md)
+- [Main Repository](https://github.com/MoyinF/cmput412final)
+- [README](https://github.com/nadeensami/cmput412/blob/main/finalproject/README.md)
