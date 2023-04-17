@@ -6,11 +6,11 @@ For more information, visit: [my CMPUT 412 Website](https://sites.google.com/ual
 
 ## Contributors
 
-Nadeen Mohamed: nadeen@ualberta.ca
-Celina Sheng: csheng2@ualberta.ca
-Sharyat Singh Bhanwala: sharyatsb@gmail.com
-Moyinoluwa Famobiwo: famobiwo@ualberta.ca
-Austin Tralnberg: atralnbe@ualberta.ca
+- Nadeen Mohamed: nadeen@ualberta.ca
+- Celina Sheng: csheng2@ualberta.ca
+- Sharyat Singh Bhanwala: sharyatsb@gmail.com
+- Moyinoluwa Famobiwo: famobiwo@ualberta.ca
+- Austin Tralnberg: atralnbe@ualberta.ca
 
 ## Exercises
 
