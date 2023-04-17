@@ -1,4 +1,4 @@
-# Exercise 2: ROS Development and Kinematics
+# Exercise 1: Intro to Robotic Development
 
 This repository contains implementation solutions for exercise 2. For information about the project, please read the report at: https://sites.google.com/ualberta.ca/nadeen-cmput-412/written-reports/exercise-1
 
